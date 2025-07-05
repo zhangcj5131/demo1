@@ -7,7 +7,14 @@ public class person {
 
     public static void test(){}
 
+
     public static void logout(){
 
     }
+
+
+    public static void login(){
+
+    }
+
 }
