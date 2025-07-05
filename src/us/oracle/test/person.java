@@ -6,4 +6,8 @@ public class person {
     }
 
     public static void test(){}
+
+    public static void login(){
+
+    }
 }
